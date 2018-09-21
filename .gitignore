@@ -1,5 +1,5 @@
-#bin
-#obj
-#*.suo
-#*.user
-#/packages
+bin
+obj
+*.suo
+*.user
+/packages
